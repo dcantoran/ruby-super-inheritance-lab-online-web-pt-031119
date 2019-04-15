@@ -9,18 +9,10 @@ class ChattyStudent < Student
   
   def raise_hand
   
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
+    super 
     
-    super
+    10.times {super}
+    
   end 
   
 end 
