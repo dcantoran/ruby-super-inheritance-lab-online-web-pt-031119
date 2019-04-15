@@ -18,7 +18,6 @@ class ChattyStudent < Student
     puts super
     puts super
     puts super
-    puts super
   end 
   
 end 
