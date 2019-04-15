@@ -8,17 +8,19 @@ class ChattyStudent < Student
   end 
   
   def raise_hand
+  
+    puts super
+    puts super
+    puts super
+    puts super
+    puts super
+    puts super
+    puts super
+    puts super
+    puts super
+    puts super
+    
     super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
-    puts super
   end 
   
 end 
